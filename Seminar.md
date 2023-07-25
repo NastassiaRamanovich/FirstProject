@@ -3,3 +3,5 @@
 git
 
 git init - инициализирует
+
+* git log
